@@ -2,4 +2,5 @@
 #+title: remegame.site index
 
 * 索引
-  不导出目录
+  导出目录
+  
