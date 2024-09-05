@@ -1,0 +1,5 @@
+# -*- coding: utf-8; -*-
+#+title: remegame.site index
+
+* 索引
+  
