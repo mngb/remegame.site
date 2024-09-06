@@ -15,4 +15,4 @@
 ** 文档格式转换
 
 * 捐赠
-  [[file:./assets/image/fkm.jpg]]
+  [[file:./images/fkm.jpg]]
