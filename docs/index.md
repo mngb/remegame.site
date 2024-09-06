@@ -22,5 +22,5 @@
 
 # 捐赠
 
-![img](./../image/fkm.jpg)
+![img](./assets/image/fkm.jpg)
 
