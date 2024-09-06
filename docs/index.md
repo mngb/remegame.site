@@ -13,6 +13,8 @@
 
 ## Pdf 加书签
 
+[怎样给扫描版 Pdf 文件添加书签](pdf_content_how_to.md)
+
 
 ## 图片格式转换
 

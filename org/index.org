@@ -9,6 +9,7 @@
 * 工具使用文档
 
 ** Pdf 加书签
+   [[file:pdf_content_how_to.org::*怎样给扫描版 Pdf 文件添加书签][怎样给扫描版 Pdf 文件添加书签]]
 
 ** 图片格式转换
 
