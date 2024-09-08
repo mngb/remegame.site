@@ -10,9 +10,10 @@
 
   | 工具名称              | 手册                         |
   |----------------------+-----------------------------|
-  | 给 Pdf 扫描件添加书签 | [[file:pdf_content_how_to.org]] |
+  | 给 Pdf 扫描件添加书签 |    |
   | 图片编辑、格式转换    | TODO                        |
   | 文档格式转换          | TODO                        |
 
 * 捐赠
+  [[file:./pdf_content_how_to.org]]
   [[file:./images/fkm.jpg]]

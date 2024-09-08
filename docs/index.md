@@ -28,7 +28,7 @@
 <tbody>
 <tr>
 <td class="org-left">给 Pdf 扫描件添加书签</td>
-<td class="org-left"><a href="pdf_content_how_to.html">pdf_content_how_to.html</a></td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
@@ -48,5 +48,6 @@
 
 # 捐赠
 
+<./pdf_content_how_to.md>
 ![img](./images/fkm.jpg)
 
