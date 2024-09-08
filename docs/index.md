@@ -28,7 +28,7 @@
 <tbody>
 <tr>
 <td class="org-left">给 Pdf 扫描件添加书签</td>
-<td class="org-left"><a href="pdf_content_how_to.html#MissingReference">怎样给扫描版 Pdf 文件添加书签</a></td>
+<td class="org-left"><a href="pdf_content_how_to.html">pdf_content_how_to.html</a></td>
 </tr>
 
 
