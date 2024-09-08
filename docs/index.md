@@ -1,5 +1,3 @@
-
-
 # 网站维护中，网站开放时间为每天 13:00 - 23:00
 
 
@@ -10,44 +8,13 @@
 
 # 工具使用文档
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">工具名称</th>
-<th scope="col" class="org-left">手册</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td class="org-left">给 Pdf 扫描件添加书签</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">图片编辑、格式转换</td>
-<td class="org-left">TODO</td>
-</tr>
-
-
-<tr>
-<td class="org-left">文档格式转换</td>
-<td class="org-left">TODO</td>
-</tr>
-</tbody>
-</table>
+| 工具名称      | 手册                      |
+|------------- |------------------------- |
+| 给 Pdf 扫描件添加书签 | <./pdf_content_how_to.md> |
+| 图片编辑、格式转换 | TODO                      |
+| 文档格式转换  | TODO                      |
 
 
 # 捐赠
 
-<./pdf_content_how_to.md>
 ![img](./images/fkm.jpg)
-
