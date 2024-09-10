@@ -3,6 +3,8 @@
 
 ## 操作演示
 
+选择 PDF 文件并配置页码信息: [start](./images/start.webm)
+
 
 ## PDF 文件确认
 
