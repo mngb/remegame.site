@@ -2,8 +2,13 @@
 
 * PDF 扫描件加书签步骤
 ** 操作演示
-   选择 PDF 文件并配置页码信息:
-   [[file:./images/start.webm][start]]
+   选择 PDF 文件并配置页码信息视频:
+
+   [[file:./images/start.gif]]
+   [[file:./images/start.webm][配置页码信息视频]]
+
+   编辑识别出的目录信息，生成带书签文件:
+
 
 ** PDF 文件确认
    确认 PDF 为扫描件，且包含目录页。
