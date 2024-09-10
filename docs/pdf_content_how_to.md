@@ -3,11 +3,21 @@
 
 ## 操作演示
 
-选择 PDF 文件并配置页码信息视频:
+选择 PDF 文件并配置页码信息:
 
-![img](./images/start.gif) [配置页码信息视频](./images/start.webm)
+![img](./images/start.gif)
 
-编辑识别出的目录信息，生成带书签文件: [目录编辑视频](./images/edit.webm)
+高清版：
+
+[配置页码信息视频](./images/start.webm)
+
+编辑识别出的目录信息，生成带书签文件:
+
+![img](./images/edit.gif)
+
+高清版：
+
+[目录编辑视频](images/edit.webm)
 
 
 ## PDF 文件确认
