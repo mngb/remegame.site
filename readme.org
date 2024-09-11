@@ -1,0 +1,8 @@
+# -*- coding: utf-8; -*-
+
+* devops
+  视频格式转换
+
+  #+BEGIN_SRC bash
+    ffmpeg -i xxx.webm -fv "fps=10,scale=600:-1" yyy.gif
+  #+END_SRC
