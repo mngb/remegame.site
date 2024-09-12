@@ -1,4 +1,9 @@
 site_name: Remegame Tool Site
 site_url: https://mngb.github.io/remegame.site/
+
+nav:
+  - Home: index.md
+  - PDF 加书签: pdf_content_how_to.md
+
 theme:
   name: material
