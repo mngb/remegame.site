@@ -7,17 +7,13 @@
 
 ![img](./images/start.gif)
 
-高清版：
-
-[配置页码信息视频](./images/start.webm)
+高清版：[配置页码信息视频](./images/start.webm)
 
 编辑识别出的目录信息，生成带书签文件:
 
 ![img](./images/edit.gif)
 
-高清版：
-
-[目录编辑视频](images/edit.webm)
+高清版：[目录编辑视频](images/edit.webm)
 
 
 ## 2 PDF 文件确认
