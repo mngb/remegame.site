@@ -5,8 +5,9 @@
 
 -   从目录页识别出文字和页码信息
 -   生成树状目录，并添加树状书签到 PDF 中
-    
-    ![img](./images/result.png)
+-   支持人工校准，提供便捷的跳转和预览，方便校准
+
+![img](./images/result.png)
 
 
 ## 2 操作演示
@@ -63,7 +64,7 @@
     
     ![img](./images/scanning.png)
 
-3.  目录扫描结束后，点击 `获取原始目录` ，将会显示扫描到的目录结果。
+3.  目录扫描成功后，将会显示扫描到的目录结果。
     
     ![img](./images/download_content.png)
     
