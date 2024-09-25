@@ -7,7 +7,11 @@
 -   生成树状目录，并添加树状书签到 PDF 中
 -   支持人工校准，提供便捷的跳转和预览，方便校准
 
-![img](./images/result.png)
+移动端操作演示：
+
+![img](./images/phone.gif)
+
+高清版：[配置页码信息视频](./images/phone.webm)
 
 
 ## 2 操作演示
