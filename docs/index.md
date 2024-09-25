@@ -16,9 +16,15 @@
 | 图片编辑工具 | 证件照和人物背景替换 | -                           | -                     | 13:00 - 23:00 |
 
 
-# 🕺🤓🐢
+# 支持和捐赠 🕺🤓🐢
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="./images/fkm_wx.jpg" style="width: 45%;" />
-  <img src="./images/fkm_zfb.jpg" style="width: 45%;" />
+<div style="display: flex; justify-content: flex-start;">
+    <div style="display: flex; flex-direction: column; justify-content: flex-end; align-items: center;">
+        <img src="./images/fkm_wx.jpg"/>
+        <span style="background-color: yellow;"><b>微信</b></span>
+    </div>
+    <div style="display: flex; flex-direction: column; justify-content: flex-end; align-items: center;">
+        <img src="./images/fkm_zfb.jpg"/>
+        <span style="background-color: yellow;"><b>支付宝</b></span>
+    </div>
 </div>
