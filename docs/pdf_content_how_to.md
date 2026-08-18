@@ -11,12 +11,12 @@
 
 ![img](./images/phone.gif)
 
-高清版：[配置页码信息视频](./images/phone.webm)
+高清版：[移动端演示视频](./images/phone.webm)
 
 
 ## 2 操作演示
 
-选择 PDF 文件并配置页码信息:
+选择 PDF 文件并配置页码信息(若浏览器版本较新，会自动隐藏 `上传` 按钮):
 
 ![img](./images/start.gif)
 
